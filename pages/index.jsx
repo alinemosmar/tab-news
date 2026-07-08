@@ -31,7 +31,7 @@ export default function LovePage() {
         }
 
         .card{
-          background:rgba(255,255,255,0.18);
+          background:rgba(243, 227, 227, 0.18);
           backdrop-filter:blur(15px);
           border:1px solid rgba(255,255,255,.3);
           border-radius:30px;
